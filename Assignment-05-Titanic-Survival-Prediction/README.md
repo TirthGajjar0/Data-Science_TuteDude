@@ -47,4 +47,3 @@ Completed as part of my Data Science learning journey using the Kaggle Titanic d
 ## Project Status
 
 Completed as part of my Data Science Learning Journey.
-
