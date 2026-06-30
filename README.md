@@ -1,18 +1,56 @@
 # Data Science Learning Journey
 
-This repository documents my Data Science learning journey through hands-on assignments, practical exercises, and projects.
+## Overview
 
-## Topics Covered
+This repository documents my learning journey through the Tutedude Data Science course. It contains hands-on assignments, case studies, and projects completed while learning core Data Science concepts and applying them using Python.
 
-- Python for Data Science
-- Data Cleaning
-- Data Preprocessing
+---
+
+## Certificate
+
+Successfully completed the **Data Science Course** by **Tutedude**.
+
+📜 [View Certificate](certificate_filename.pdf)
+
+---
+
+## Course Highlights
+
+During this course, I explored and practiced:
+
+### Programming & Data Handling
+- Python Programming
+- NumPy
+- Pandas
+
+### Data Analysis
 - Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
 - Data Visualization
+  - Matplotlib
+  - Seaborn
+  - Plotly
 - Statistics
-- Feature Engineering
-- Predictive Modeling
+
+### Machine Learning
 - Machine Learning Fundamentals
+- Linear & Multiple Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- K-Means Clustering
+- Boosting & Stacking
+- Model Evaluation & Hyperparameter Tuning
+
+### Advanced Topics
+- Natural Language Processing (NLP)
+- Time Series Forecasting
+- Model Deployment
+- Capstone Project
+
+---
 
 ## Tools & Libraries
 
@@ -21,25 +59,15 @@ This repository documents my Data Science learning journey through hands-on assi
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
 - Scikit-Learn
+- Statsmodels
+- Prophet
 - Jupyter Notebook
 - Google Colab
 
-## Repository Structure
+---
 
-Each assignment contains:
-- Jupyter Notebook
-- Dataset (if applicable)
-- Assignment-specific README
+## Note
 
-## Learning Goal
-
-To develop practical skills in data analysis, visualization, statistical thinking, and machine learning using real-world datasets.
-
-## Future Projects
-
-- Customer Segmentation
-- Sales Analysis Dashboard
-- Predictive Analytics
-- Recommendation Systems
-- End-to-End Data Science Projects
+The projects in this repository were completed as part of my Data Science learning journey. They reflect my practical understanding of data analysis, machine learning workflows, and predictive modeling using both educational and real-world datasets.
