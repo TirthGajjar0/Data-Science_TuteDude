@@ -10,7 +10,7 @@ This repository documents my learning journey through the Tutedude Data Science 
 
 Successfully completed the **Data Science Course** by **Tutedude**.
 
-📜 [View Certificate](certificate_filename.pdf)
+📜 [View Certificate](certificate_TD-TIRTH-DS.pdf)
 
 ---
 
